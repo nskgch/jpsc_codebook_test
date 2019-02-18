@@ -1,0 +1,88 @@
+==================================
+**1年間の出来事（家族）**
+==================================
+
+この1年間（平成22年10月～平成23年9月）に他のご家族に次のような出来事がありましたか。
+
+
+質問1 
+------------------------
+
+その事故や災害、消費者トラブルは何でしたか。（○はいくつでも）
+
+
+
+変数一覧
+------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q139K
+   /variable/Q139A
+   /variable/Q139L
+   /variable/Q139M
+   /variable/Q139B
+   /variable/Q139C
+   /variable/Q139D
+   /variable/Q139E
+   /variable/Q139F
+   /variable/Q139G
+   /variable/Q139H
+   /variable/Q139I
+   /variable/Q139J
+
+
+質問2 
+------------------------
+
+その出来事によって生活に大きな変化がありましたか。（○はいくつでも）
+
+
+
+変数一覧
+------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q140A
+   /variable/Q140B
+   /variable/Q140C
+   /variable/Q140D
+   /variable/Q140E
+   /variable/Q140F
+   /variable/Q140G
+   /variable/Q140H
+   
+
+質問3
+------------------------
+
+
+そのためにどのような対処をしましたか。（○はいくつでも）
+
+
+
+変数一覧
+------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q141A
+   /variable/Q141B
+   /variable/Q141C
+   /variable/Q141D
+   /variable/Q141E
+   /variable/Q141F
+   /variable/Q141G
+   /variable/Q141H
+   /variable/Q141I
+   /variable/Q141J
+   /variable/Q141K
+   /variable/Q141L
+   /variable/Q141M
+   /variable/Q141N
+   /variable/Q141O
+

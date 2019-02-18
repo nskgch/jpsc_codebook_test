@@ -1,0 +1,27 @@
+=====================================
+**前職を選んだ理由**
+=====================================
+
+質問文
+---------------------------
+なぜ、あなたはその前職を選びましたか。（○はいくつでも）
+
+
+変数の詳細
+---------------------------
+
+.. toctree:
+   :maxdepth: 1
+   
+   /variable/P67A
+   /variable/P67B
+   /variable/P67X
+   /variable/P67E
+   /variable/P67F
+   /variable/P67G
+   /variable/P67H
+   /variable/P67Y
+   /variable/P67M
+   /variable/P67N
+   /variable/P67O
+   /variable/P67W

@@ -1,0 +1,58 @@
+===============================
+世帯員の就学・就労状況
+===============================
+
+.. todo:: 変数が3つに分かれていないので作成する。現状はダミー
+
+パネル11～現在
+---------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /zokusei/Q9S
+   /variable/Q14S
+   /variable/Q19S
+   /variable/Q24S
+   /variable/Q29S
+   /variable/Q34S
+   /variable/Q39S
+   /variable/Q44S
+   /variable/Q49S
+   /variable/Q54S
+   
+
+パネル10
+---------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /zokusei/Q9R
+   /variable/Q14R
+   /variable/Q19R
+   /variable/Q24R
+   /variable/Q29R
+   /variable/Q34R
+   /variable/Q39R
+   /variable/Q44R
+   /variable/Q49R
+   /variable/Q54R
+   
+
+パネル1～9
+---------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /zokusei/Q9
+   /variable/Q14
+   /variable/Q19
+   /variable/Q24
+   /variable/Q29
+   /variable/Q34
+   /variable/Q39
+   /variable/Q44
+   /variable/Q49
+   /variable/Q54

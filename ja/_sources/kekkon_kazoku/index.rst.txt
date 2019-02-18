@@ -1,0 +1,10 @@
+==============
+家族観について
+==============
+
+.. toctree::
+   :maxdepth: 1
+
+   kekkon_ishiki
+   /variable/Q933
+   

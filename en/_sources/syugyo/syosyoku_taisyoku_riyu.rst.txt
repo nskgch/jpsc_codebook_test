@@ -1,0 +1,30 @@
+=====================================
+**前職を退職した理由**
+=====================================
+
+質問文
+---------------------------
+どのような理由で、あなたははじめての職業をやめたのですか。（○はいくつでも）
+
+
+変数の詳細
+
+
+.. toctree:
+   :maxdepth: 1
+   
+   /variable/P78A
+   /variable/P78B
+   /variable/P78V
+   /variable/P78W
+   /variable/P78F
+   /variable/P78H
+   /variable/P78X
+   /variable/P78G
+   /variable/P78Q
+   /variable/P78K
+   /variable/P78Y
+   /variable/P78T
+   /variable/P78U
+   /variable/P78Z
+   /variable/P78M

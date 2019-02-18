@@ -1,0 +1,12 @@
+==========================
+夫婦関係
+==========================
+
+.. toctree::
+   :maxdepth: 1
+
+   /multi_var/Q1168
+   /variable/Q1169
+   hsbnd_image
+   /multi_var/Q1161
+   /variable/Q508

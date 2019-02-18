@@ -1,0 +1,14 @@
+============================
+子どもの教育についての考え・教育費
+============================
+
+.. toctree::
+   :maxdepth: 1
+
+   kyouiku_hiyou
+   misyugakuji_hiyou
+   /variable/Q1063
+   /multi_var/Q1095
+   kyouiku_kibou
+   /variable/Q965
+   /variable/Q1160

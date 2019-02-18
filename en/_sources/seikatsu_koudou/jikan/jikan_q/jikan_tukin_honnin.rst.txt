@@ -1,0 +1,11 @@
+===================================
+ **通勤・通学時間・本人**
+===================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q493AH
+   /variable/Q493AM
+   /variable/Q494AH
+   /variable/Q494AM

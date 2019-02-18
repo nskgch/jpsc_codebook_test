@@ -1,0 +1,101 @@
+.. koumoku_ichiran documentation master file, created by
+===================================
+消費生活に関するパネル調査
+===================================
+
+質問項目
+====================
+.. hlist::
+   :columns: 2
+
+   - 基本情報
+
+	.. toctree::
+	   :maxdepth: 1
+
+	   id_panel/index
+	   zokusei/index
+	   zokusei_hsbnd/index
+	   kazoku/index
+	   seikatsu_hendou/index
+
+
+   - 職業について
+
+	.. toctree::
+	   :maxdepth: 1
+
+	   syugyo/index
+	   syugyo_hsbnd/index
+
+
+   - 家計について
+
+	.. toctree::
+	   :maxdepth: 1
+
+	   kakei/index
+	   syunyu_kanri/index
+
+
+   - 資産について
+
+	.. toctree::
+	   :maxdepth: 1
+
+	   tyochiku/index
+	   jutaku/index
+	   loan_jutaku/index
+	   loan_sonota/index
+	   credit_card/index
+
+
+   - 結婚・出産・子育て
+
+	.. toctree::
+	   :maxdepth: 1
+
+	   shinkon/index
+	   kekkon/index
+	   fufukankei/index
+	   kodomo/index
+	   kosodate_hiyou/index
+	   kekkon_kazoku/index
+
+   - 生活全般
+
+	.. toctree::
+	   :maxdepth: 1
+
+	   seikatsu_koudou/index
+	   jiko_keihatsu/index
+	   yujin/index
+	   seikatsu_syukan/index
+	   ces_d/index
+	   jujitsu/index
+
+
+   - 意識調査
+
+	.. toctree::
+	   :maxdepth: 1
+
+	   seikatsu_ishiki/index
+	   seisaku/index
+
+   - その他
+
+	.. toctree::
+	   :maxdepth: 1
+
+	   oya/index
+	   kaden/index
+	   pet/index
+
+
+.. todolist::
+
+サイト内検索
+==================
+
+* :ref:`search`

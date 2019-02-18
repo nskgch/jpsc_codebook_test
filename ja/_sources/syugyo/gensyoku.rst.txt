@@ -1,0 +1,31 @@
+===================================
+回答者の現在の職業
+===================================
+
+.. image:: image/syugyo_setsumei.jpg
+
+.. .. raw:: html
+
+      <img src="../_images/syugyo_setsumei.jpg" alt="就業状態の説明" usemap="#syugyo">
+      <map name="syugyo">
+      <area shape="rect" coords="26,552,340,572" href="yusyoku.html">
+      <area shape="rect" coords="458,552,770,572" href="musyoku.html">
+      </map>
+
+
+.. toctree::
+   :maxdepth: 1
+
+   yusyoku
+   musyoku
+
+
+
+変数の詳細（就業状況）
+----------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q142
+   /variable/Q1025

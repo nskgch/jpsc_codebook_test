@@ -1,0 +1,114 @@
+===================================
+夫の生活時間
+===================================
+
+
+平日
+-------------------------------
+
+.. hlist::
+  :columns: 3
+
+  - （1）通勤・通学
+  
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q495AH
+	  /variable/Q495AM 
+  
+  - （2）仕事
+  
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q495BH
+	  /variable/Q495BM 
+
+  - （3）勉学
+
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q495CH
+	  /variable/Q495CM 
+
+  - （4）家事・育児
+
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q495DH
+	  /variable/Q495DM 
+
+  - （5）趣味・娯楽・交際など
+
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q495IH
+	  /variable/Q495IM 
+
+  - （6）上記以外の睡眠、食事、入浴、身の回りの用事など
+
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q495MH
+	  /variable/Q495MM 
+
+
+休日
+-------------------------------
+
+.. hlist::
+  :columns: 3
+
+  - （1）通勤・通学
+  
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q496AH
+	  /variable/Q496AM 
+  
+  - （2）仕事
+  
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q496BH
+	  /variable/Q496BM 
+
+  - （3）勉学
+
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q496CH
+	  /variable/Q496CM 
+
+  - （4）家事・育児
+
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q496DH
+	  /variable/Q496DM 
+
+  - （5）趣味・娯楽・交際など
+
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q496IH
+	  /variable/Q496IM 
+
+  - （6）上記以外の睡眠、食事、入浴、身の回りの用事など
+
+	.. toctree::
+	  :maxdepth: 1
+ 
+	  /variable/Q496MH
+	  /variable/Q496MM 
+

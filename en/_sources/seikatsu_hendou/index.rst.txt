@@ -1,0 +1,14 @@
+=========================
+1年間の生活変動
+=========================
+
+.. toctree::
+   :maxdepth: 1
+
+   /multi_var/Q67
+   syussan_rist
+   /multi_var/Q84
+   shibou
+   jishin_dekigoto
+   kazoku_dekigoto
+   /variable/Q119

@@ -1,0 +1,72 @@
+
+============================================================
+1年前の勤務先を辞めた理由
+============================================================
+
+
+質問文（複数回答）
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+どのような理由で、あなたは１年前（昨年9月末）の会社等をやめたのですか。
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :widths: 20,5
+
+   人員整理・会社解散・倒産のため,:doc:`Q198A </variable/Q198A>`
+   一時的・不安定な仕事だったから,:doc:`Q198B </variable/Q198B>`
+   労働条件（収入・時間）が悪かったため,:doc:`Q198U </variable/Q198U>`
+   仕事の内容に不満があったため,:doc:`Q198V </variable/Q198V>`
+   家族の就職・転職・転勤及び事業所の移転のため,:doc:`Q198G </variable/Q198G>`
+   結婚のため,:doc:`Q198H </variable/Q198H>`
+   妊娠・出産のため,:doc:`Q198Z </variable/Q198Z>`
+   育児・子育てのため,:doc:`Q198AA </variable/Q198AA>`
+   自分が病気になったから,:doc:`Q198L </variable/Q198L>`
+   家族の介護のため,:doc:`Q198M </variable/Q198M>`
+   良い条件の仕事が見つかったら・独立したから,:doc:`Q198O </variable/Q198O>`
+   人間関係が気まずくなったから,:doc:`Q198X </variable/Q198X>`
+   解雇された,:doc:`Q198Y </variable/Q198Y>`
+   大学や専門学校などでの勉強や留学準備のため,:doc:`Q198R </variable/Q198R>`
+   定年又は雇用契約の満了,:doc:`Q198S </variable/Q198S>`
+   その他,:doc:`Q198T </variable/Q198T>`
+
+
+
+現在の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q198A
+   /variable/Q198B
+   /variable/Q198U
+   /variable/Q198V
+   /variable/Q198G
+   /variable/Q198H
+   /variable/Q198Z
+   /variable/Q198AA
+   /variable/Q198L
+   /variable/Q198M
+   /variable/Q198O
+   /variable/Q198X
+   /variable/Q198Y
+   /variable/Q198R
+   /variable/Q198S
+   /variable/Q198T
+
+
+過去の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+
+備考
+------------------------
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

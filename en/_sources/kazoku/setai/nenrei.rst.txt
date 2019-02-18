@@ -1,0 +1,17 @@
+===============================
+世帯員の年齢
+===============================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /zokusei/Q8
+   /variable/Q13
+   /variable/Q18
+   /variable/Q23
+   /variable/Q28
+   /variable/Q33
+   /variable/Q38
+   /variable/Q43
+   /variable/Q48
+   /variable/Q53

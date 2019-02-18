@@ -1,0 +1,23 @@
+==============================================
+景気について
+==============================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q655
+   /multi_var/Q656
+   /multi_var/Q657
+   /multi_var/Q658
+   /multi_var/Q659
+   /variable/Q660
+   /variable/Q661
+   /variable/Q662
+   /variable/Q663
+   /variable/Q664
+   Q665
+   /variable/Q666
+   /variable/Q667
+   /multi_var/Q668
+   /multi_var/Q669
+   /variable/Q670

@@ -1,0 +1,30 @@
+==============================================
+インターネットと電子メール
+==============================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /multi_var/Q981
+   /variable/Q982
+   /variable/Q983
+   /multi_var/Q984
+   /multi_var/Q985
+   /multi_var/Q986
+   /variable/Q987
+   /multi_var/Q988
+   /variable/Q989
+   /variable/Q990
+   /multi_var/Q991
+   /multi_var/Q992
+   /variable/Q993
+   /multi_var/Q994
+   /multi_var/Q995
+   /multi_var/Q996
+   /multi_var/Q997
+   /multi_var/Q998
+   /multi_var/Q1000
+   /multi_var/Q1001
+   /variable/Q1002
+   /variable/Q1003
+　　

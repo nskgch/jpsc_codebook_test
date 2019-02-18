@@ -1,0 +1,68 @@
+==============================================
+生活保障・扶養意識
+==============================================
+
+配偶者控除・配偶者特別控除
+-------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q944
+   /variable/Q945
+   /multi_var/Q946
+   /variable/Q947
+   /variable/Q948
+   /variable/Q949
+   /variable/Q950
+   /variable/Q951
+
+配偶者手当
+-------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q952
+   /variable/Q953
+   /variable/Q954
+   /variable/Q955
+   /multi_var/Q956
+   /variable/Q957
+   /variable/Q958
+   /multi_var/Q959
+   /variable/Q960
+
+子どもの養育・教育費
+------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q961
+   /variable/Q962
+   /variable/Q963
+   /variable/Q964
+   /variable/Q965
+   /variable/Q966
+   /variable/Q967
+   /variable/Q968
+   /variable/Q969
+   /variable/Q970
+   /variable/Q971
+
+老後
+-------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /multi_var/Q972
+   /variable/Q973
+   Q974
+   /variable/Q975
+   /variable/Q976
+   /variable/Q977
+   /variable/Q978
+   /variable/Q979
+

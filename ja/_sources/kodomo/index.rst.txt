@@ -1,0 +1,15 @@
+=======================
+出産・子育ての態度・考え方
+=======================
+
+（養育態度・ペアレンティング）
+
+.. toctree::
+   :maxdepth: 1
+
+   /multi_var/Q1041
+   /multi_var/Q1042
+   /variable/Q1019
+   /variable/Q1154
+   kosodate
+   /seikatsu_hendou/syussan_rist

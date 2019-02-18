@@ -1,0 +1,69 @@
+=======================================
+ご主人について（新規・新婚）
+=======================================
+
+家族構成
+----------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q671A
+   /variable/Q671B
+   /variable/Q672
+   Q673
+
+学歴
+----------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q674
+   /variable/Q675
+   /variable/Q676
+   /variable/Q677
+   /variable/Q678
+   /variable/Q679
+   /variable/Q680
+   /variable/Q681
+   /variable/Q682
+   /variable/Q683
+   /variable/Q684
+   /variable/Q685
+   /variable/Q686
+   /variable/Q857
+   /variable/Q892
+
+職業
+----------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q689A
+   /variable/Q689B
+   /variable/Q690A
+   /variable/Q690B
+   /variable/Q691A
+   /variable/Q691B
+   
+両親
+----------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q858
+   /variable/Q694
+   /variable/Q893
+   /variable/Q696
+   /variable/Q697
+   /variable/Q698
+   /variable/Q699
+   /variable/Q839
+   /variable/Q701
+   /variable/Q894
+   /variable/Q1077
+   /variable/Q698
+   /variable/Q698

@@ -1,0 +1,19 @@
+========================================
+初職
+========================================
+
+.. note:: 前職があり、その前職が初職でない人が回答しています。
+
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P70
+   /variable/Q1021
+   /variable/P72
+   /variable/P73
+   syosyoku_kikan
+   /multi_var/P77
+   /multi_var/P78
+   /variable/P183
+   /multi_var/P61

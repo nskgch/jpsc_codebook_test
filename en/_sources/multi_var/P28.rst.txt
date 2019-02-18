@@ -1,0 +1,93 @@
+
+============================================================
+保有している資格
+============================================================
+
+
+質問文（複数回答）
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+あなたは、次のような資格をお持ちですか。お持ちのものをお知らせください。（○はいくつでも）
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :widths: 2,20,5
+
+   1,医師、歯科技師,:doc:`P28A </variable/P28A>`
+   2,薬剤師,:doc:`P28B </variable/P28B>`
+   3,看護師、保健師,:doc:`P28C </variable/P28C>`
+   4,歯科衛生士,:doc:`P28D </variable/P28D>`
+   5,歯科技巧士,:doc:`P28E </variable/P28E>`
+   6,臨床検査技師,:doc:`P28F </variable/P28F>`
+   7,社会福祉士、介護福祉士,:doc:`P28G </variable/P28G>`
+   8,栄養士、調理師,:doc:`P28H </variable/P28H>`
+   9,教員,:doc:`P28I </variable/P28I>`
+   10,保母,:doc:`P28J </variable/P28J>`
+   11,弁護士,:doc:`P28K </variable/P28K>`
+   12,司法書士,:doc:`P28L </variable/P28L>`
+   13,行政書士,:doc:`P28M </variable/P28M>`
+   14,社保労務士,:doc:`P28N </variable/P28N>`
+   15,中小企業診断士,:doc:`P28O </variable/P28O>`
+   16,公認会計士,:doc:`P28P </variable/P28P>`
+   17,税理士,:doc:`P28Q </variable/P28Q>`
+   18,建築士,:doc:`P28R </variable/P28R>`
+   19,インテリア・コーディネーター,:doc:`P28S </variable/P28S>`
+   20,消費生活アドバイザー,:doc:`P28T </variable/P28T>`
+   21,理容師、美容師,:doc:`P28U </variable/P28U>`
+   22,情報処理技術者,:doc:`P28V </variable/P28V>`
+   23,タクシーやバスなどの営業用運転免許,:doc:`P28W </variable/P28W>`
+   24,英検2級程度以上,:doc:`P28X </variable/P28X>`
+   25,簿記（2級以上）,:doc:`P28Y </variable/P28Y>`
+   26,その他,:doc:`P28Z </variable/P28Z>`
+   27,持っていない,:doc:`P28AA </variable/P28AA>`
+
+
+現在の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P28A
+   /variable/P28B
+   /variable/P28C
+   /variable/P28D
+   /variable/P28E
+   /variable/P28F
+   /variable/P28G
+   /variable/P28H
+   /variable/P28I
+   /variable/P28J
+   /variable/P28K
+   /variable/P28L
+   /variable/P28M
+   /variable/P28N
+   /variable/P28O
+   /variable/P28P
+   /variable/P28Q
+   /variable/P28R
+   /variable/P28S
+   /variable/P28T
+   /variable/P28U
+   /variable/P28V
+   /variable/P28W
+   /variable/P28X
+   /variable/P28Y
+   /variable/P28Z
+   /variable/P28AA
+
+
+過去の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+
+備考
+------------------------
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

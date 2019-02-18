@@ -1,0 +1,64 @@
+
+============================================================
+初職の選択理由
+============================================================
+
+
+質問文（複数回答）
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+どのような理由で、あなたははじめての職業を選びましたか
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :widths: 20,5
+
+   給与がよい,:doc:`P77A </variable/P77A>`
+   休日、休暇が多い,:doc:`P77B </variable/P77B>`
+   拘束時間が少ない、労働時間が自由になる,:doc:`P77X </variable/P77X>`
+   家に近い、通勤距離が短い,:doc:`P77E </variable/P77E>`
+   転勤がない、少ない,:doc:`P77F </variable/P77F>`
+   安定している、失業のおそれがない,:doc:`P77G </variable/P77G>`
+   将来発展する可能性がある,:doc:`P77H </variable/P77H>`
+   結婚・出産後も続けやすい,:doc:`P77Y </variable/P77Y>`
+   技術が身につく,:doc:`P77M </variable/P77M>`
+   能力が生かせる,:doc:`P77N </variable/P77N>`
+   仕事内容に興味がある,:doc:`P77O </variable/P77O>`
+   その他,:doc:`P77W </variable/P77W>`
+
+
+
+現在の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P77A
+   /variable/P77B
+   /variable/P77E
+   /variable/P77F
+   /variable/P77G
+   /variable/P77H
+   /variable/P77M
+   /variable/P77N
+   /variable/P77O
+   /variable/P77W
+   /variable/P77X
+   /variable/P77Y
+
+
+過去の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+
+備考
+------------------------
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

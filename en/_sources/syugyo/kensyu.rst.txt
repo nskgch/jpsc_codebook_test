@@ -1,0 +1,12 @@
+=========================
+**会社の研修会・講習会**
+=========================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q169
+   /variable/Q170
+   /variable/Q171
+   /variable/Q172
+   /variable/Q173

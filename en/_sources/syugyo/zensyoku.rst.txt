@@ -1,0 +1,19 @@
+========================================
+前職
+========================================
+
+.. note:: 前職がある人が回答しています。
+
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q1020
+   /variable/P63
+   /variable/P64
+   /variable/P65
+   zensyoku_kikan
+   /multi_var/P67
+   /multi_var/P68
+   shitsugyo_kyufu
+   

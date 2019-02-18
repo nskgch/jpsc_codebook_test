@@ -1,0 +1,64 @@
+
+============================================================
+現在の会社を選択した理由（転職者）
+============================================================
+
+
+質問文（複数回答）
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+なぜ、あなたは現在の会社等を選びましたか。
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :widths: 20,5
+
+   給与がよい,:doc:`Q191A </variable/Q191A>`
+   休日、休暇が多い,:doc:`Q191B </variable/Q191B>`
+   拘束時間が少ない、労働時間が自由になる,:doc:`Q191U </variable/Q191U>`
+   家に近い、通勤距離が短い,:doc:`Q191E </variable/Q191E>`
+   転勤がない、少ない,:doc:`Q191F </variable/Q191F>`
+   安定している、失業のおそれがない,:doc:`Q191G </variable/Q191G>`
+   将来発展する可能性がある,:doc:`Q191H </variable/Q191H>`
+   結婚・出産後も続けやすい,:doc:`Q191V </variable/Q191V>`
+   技術が身につく,:doc:`Q191L </variable/Q191L>`
+   能力が生かせる,:doc:`Q191M </variable/Q191M>`
+   仕事内容に興味がある,:doc:`Q191N </variable/Q191N>`
+   その他,:doc:`Q191T </variable/Q191T>`
+
+
+
+現在の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q191A
+   /variable/Q191B
+   /variable/Q191U
+   /variable/Q191E
+   /variable/Q191F
+   /variable/Q191G
+   /variable/Q191H
+   /variable/Q191V
+   /variable/Q191L
+   /variable/Q191M
+   /variable/Q191N
+   /variable/Q191T
+
+
+過去の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+
+備考
+------------------------
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

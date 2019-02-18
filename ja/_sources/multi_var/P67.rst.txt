@@ -1,0 +1,64 @@
+
+============================================================
+前職の選択理由
+============================================================
+
+
+質問文（複数回答）
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+なぜ、あなたはその前職を選びましたか。（○はいくつでも）
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :widths: 2,20,5
+
+   1,給与がよい,:doc:`P67A </variable/P67A>`
+   2,休日、休暇が多い,:doc:`P67B </variable/P67B>`
+   3,拘束時間が少ない、労働時間が自由になる,:doc:`P67X </variable/P67X>`
+   4,家に近い、通勤距離が短い,:doc:`P67E </variable/P67E>`
+   5,転勤がない、少ない,:doc:`P67F </variable/P67F>`
+   6,安定している、失業のおそれがない,:doc:`P67G </variable/P67G>`
+   7,将来発展する可能性がある,:doc:`P67H </variable/P67H>`
+   8,結婚・出産後も続けやすい,:doc:`P67Y </variable/P67Y>`
+   9,技術が身につく,:doc:`P67M </variable/P67M>`
+   10,能力が生かせる,:doc:`P67N </variable/P67N>`
+   11,仕事内容に興味がある,:doc:`P67O </variable/P67O>`
+   12,その他(具体的に　　　　　　　　　　　　　　　),:doc:`P67W </variable/P67W>`
+
+
+
+現在の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P67A
+   /variable/P67B
+   /variable/P67E
+   /variable/P67F
+   /variable/P67G
+   /variable/P67H
+   /variable/P67M
+   /variable/P67N
+   /variable/P67O
+   /variable/P67W
+   /variable/P67X
+   /variable/P67Y
+
+
+過去の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+
+備考
+------------------------
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

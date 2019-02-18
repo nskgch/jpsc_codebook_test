@@ -1,0 +1,200 @@
+====================
+現在の借り入れの状況
+====================
+
+質問文
+----------------------------------
+
+現在の借り入れについて、以下の項目にご記入ください。「①借りた目的」「②借入先」「③借りた理由」は、下のコード表からあてはまる「コード番号」をご記入ください。
+
+「③借りた理由」は、1カ所の借入先それぞれについて最大の理由1つを選んでご記入下さい。
+
+
+
+調査票
+----------------------------------
+
+.. figure:: sonotaloan.jpg
+   :scale: 60%
+
+
+
+変数の一覧（借入れ目的別）
+----------------------------------------
+
+01 事業用の資金
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q808A
+   /variable/Q808B
+   /variable/Q808C
+   /variable/Q808D
+   /variable/Q808E
+   /variable/Q808F
+   /variable/Q808G
+   /variable/Q808H
+
+02 乗用車の購入
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q424A
+   /variable/Q424B
+   /variable/Q424C
+   /variable/Q424D
+   /variable/Q424E
+   /variable/Q424F
+   /variable/Q424G
+   /variable/Q424H
+
+
+03　家具・家電などの耐久消費財の購入
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q425A
+   /variable/Q425B
+   /variable/Q425C
+   /variable/Q425D
+   /variable/Q425E
+   /variable/Q425F
+   /variable/Q425G
+   /variable/Q425H
+
+
+04 衣類・身の回り品・食料品などの購入
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q426A
+   /variable/Q426B
+   /variable/Q426C
+   /variable/Q426D
+   /variable/Q426E
+   /variable/Q426F
+   /variable/Q426G
+   /variable/Q426H
+
+
+05 趣味・レジャー・交際費として
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q427A
+   /variable/Q427B
+   /variable/Q427C
+   /variable/Q427D
+   /variable/Q427E
+   /variable/Q427F
+   /variable/Q427G
+   /variable/Q427H
+
+
+
+
+06 教育費
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q428A
+   /variable/Q428B
+   /variable/Q428C
+   /variable/Q428D
+   /variable/Q428E
+   /variable/Q428F
+   /variable/Q428G
+   /variable/Q428H
+
+
+07　結婚費用
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q429A
+   /variable/Q429B
+   /variable/Q429C
+   /variable/Q429D
+   /variable/Q429E
+   /variable/Q429F
+   /variable/Q429G
+   /variable/Q429H
+
+
+08 病気・不慮の事故
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q430A
+   /variable/Q430B
+   /variable/Q430C
+   /variable/Q430D
+   /variable/Q430E
+   /variable/Q430F
+   /variable/Q430G
+   /variable/Q430H
+
+
+09 家族の生活費の補填
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q431A
+   /variable/Q431B
+   /variable/Q431C
+   /variable/Q431D
+   /variable/Q431E
+   /variable/Q431F
+   /variable/Q431G
+   /variable/Q431H
+
+
+10 借金の返済
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q432A
+   /variable/Q432B
+   /variable/Q432C
+   /variable/Q432D
+   /variable/Q432E
+   /variable/Q432F
+   /variable/Q432G
+   /variable/Q432H
+
+
+11 その他
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q433A
+   /variable/Q433B
+   /variable/Q433C
+   /variable/Q433D
+   /variable/Q433E
+   /variable/Q433F
+   /variable/Q433G
+   /variable/Q433H
+

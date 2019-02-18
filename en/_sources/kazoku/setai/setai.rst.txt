@@ -1,0 +1,191 @@
+===============================
+世帯票
+===============================
+
+質問文
+------------------------------
+
+ご家族1人1人について、あなたとの続き柄、性別、年齢、就学・就労状況、同居・別居の別、配偶関係をお知らせ下さい。
+
+（単身赴任、留学、進学、就職、結婚や入院などで別居しているご主人、お子さんも含めてご記入下さい）
+
+
+調査票
+------------------------------
+
+それぞれの変数の詳細については、下記の :ref:`setai-variable` をご確認ください。
+
+
+第１１回調査〜現在まで
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. csv-table::
+   :header: "", "続き柄", "性別", "年齢", "現在の就学・就業状況", "同別居", "配偶関係"
+   :widths: 5, 5, 5, 5, 5, 5, 5
+
+   本人,                   :doc:`Q6</zokusei/Q6>`   , :doc:`Q7</zokusei/Q7>`,   :doc:`Q8</zokusei/Q8>`,    :doc:`Q9S</zokusei/Q9S>`,    :doc:`Q10</variable/Q10>`, :doc:`Q1014_1</variable/Q1014_1>`
+   家族１（有配偶の場合は配偶者）,:doc:`Q11</variable/Q11>`, :doc:`Q12</variable/Q12>`,:doc:`Q13</variable/Q13>`, :doc:`Q14S</variable/Q14S>`, :doc:`Q15</variable/Q15>`, :doc:`Q1014_2</variable/Q1014_2>`
+   家族２,                  :doc:`Q16</variable/Q16>`, :doc:`Q17</variable/Q17>`,:doc:`Q18</variable/Q18>`, :doc:`Q19S</variable/Q19S>`, :doc:`Q20</variable/Q20>`, :doc:`Q1014_3</variable/Q1014_3>`
+   家族3,                  :doc:`Q21</variable/Q21>`, :doc:`Q22</variable/Q22>`,:doc:`Q23</variable/Q23>`, :doc:`Q24S</variable/Q24S>`, :doc:`Q25</variable/Q25>`, :doc:`Q1014_4</variable/Q1014_4>`
+   家族4,                  :doc:`Q26</variable/Q26>`, :doc:`Q27</variable/Q27>`,:doc:`Q28</variable/Q28>`, :doc:`Q29S</variable/Q29S>`, :doc:`Q30</variable/Q30>`, :doc:`Q1014_5</variable/Q1014_5>`
+   家族5,                  :doc:`Q31</variable/Q31>`, :doc:`Q32</variable/Q32>`,:doc:`Q33</variable/Q33>`, :doc:`Q34S</variable/Q34S>`, :doc:`Q35</variable/Q35>`, :doc:`Q1014_6</variable/Q1014_6>`
+   家族6,                  :doc:`Q36</variable/Q36>`, :doc:`Q37</variable/Q37>`,:doc:`Q38</variable/Q38>`, :doc:`Q39S</variable/Q39S>`, :doc:`Q40</variable/Q40>`, :doc:`Q1014_7</variable/Q1014_7>`
+   家族7,                  :doc:`Q41</variable/Q41>`, :doc:`Q42</variable/Q42>`,:doc:`Q43</variable/Q43>`, :doc:`Q44S</variable/Q44S>`, :doc:`Q45</variable/Q45>`, :doc:`Q1014_8</variable/Q1014_8>`
+   家族8,                  :doc:`Q46</variable/Q46>`, :doc:`Q47</variable/Q47>`,:doc:`Q48</variable/Q48>`, :doc:`Q49S</variable/Q49S>`, :doc:`Q50</variable/Q50>`, :doc:`Q1014_9</variable/Q1014_9>`
+   家族9,                  :doc:`Q51</variable/Q51>`, :doc:`Q52</variable/Q52>`,:doc:`Q53</variable/Q53>`, :doc:`Q54S</variable/Q54S>`, :doc:`Q55</variable/Q55>`, :doc:`Q1014_10</variable/Q1014_10>`
+
+
+
+続き柄コード
+--------------
+
+.. hlist::
+   :columns: 2
+
+
+.. note:: 変数コード確認
+
+
+有配偶
+^^^^^^^
+
+| 00. 本人（妻）
+| 01. ご主人
+| 02. 子ども(第１子)
+| 03. 子ども(第２子)
+| 04. 子ども(第３子)
+| 05. 子ども(第4子)
+| 06. 子ども(第5子以下)
+| 07. 妻の父母
+| 08. 夫の父母
+| 09. 妻の祖父母
+| 10. 夫の祖父母
+| 11. 妻の兄弟姉妹
+| 12. 夫の兄弟姉妹
+| 13. 子どもの配偶者
+| 14. 孫
+| 15. その他の親族
+| 16. その他
+
+
+
+無配偶
+^^^^^^
+
+| 00. 本人
+| 01. 子ども(第１子)
+| 02. 子ども(第２子)
+| 03. 子ども(第３子)
+| 04. 子ども(第4子)
+| 05. 子ども(第5子以下)
+| 06. 自分の父母
+| 07. 自分の祖父母
+| 08. 自分の兄弟姉妹
+| 09. 子どもの配偶者
+| 10. 孫
+| 11. その他の親族
+| 12. その他
+
+
+
+
+性別
+----------
+
+1. 男
+2. 女
+
+
+
+年齢
+----------
+
+＿＿歳
+
+
+就学・就労状況
+------------
+
+1. 未就学
+2. 小学１～３年
+3. 小学４～６年
+4. 中学生
+5. 高校生
+6. 短大・大学生
+7. 専門学校
+8. 仕事に就いている
+9. 無　職
+10. その他
+
+
+同別居
+-------
+
+1. 同居
+2. 別居
+
+
+配偶関係
+-----------
+
+1. 独身
+2. 結婚している
+
+
+.. figure:: image/setai_yuu_p19.jpg
+   :scale: 60%
+
+
+
+
+過去分（第10調査）
+********************
+
+.. figure:: image/setai_yuu_p10.jpg
+   :scale: 20%
+
+   クリックして拡大
+
+
+過去分（第1回～第9調査）
+********************
+
+.. figure:: image/setai_yuu_p9.jpg
+   :scale: 20%
+
+   クリックして拡大
+
+
+
+過去分（第1０回調査）
+***********************
+
+.. figure:: image/setai_mu_p10.jpg
+   :scale: 20%
+
+   クリックして拡大
+
+
+過去分（第1回～第9調査）
+***********************
+
+.. figure:: image/setai_mu_p9.jpg
+   :scale: 20%
+
+   クリックして拡大
+
+.. _setai-variable:
+
+変数一覧
+---------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   tsuzukigara
+   seibetsu
+   nenrei
+   syurou
+   doukyo
+   haigu

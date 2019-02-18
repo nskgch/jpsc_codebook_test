@@ -1,0 +1,49 @@
+
+==================================
+クレジットカードの利用
+==================================
+
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q439
+   /variable/Q440A
+   /variable/Q441A
+   /variable/Q1172
+   /variable/Q1173
+   /variable/Q1174
+   /variable/Q1175
+   
+   
+
+
+
+調査票（パネル19まで）
+-----------------------------------
+
+
+有配偶
+^^^^^^^^^^^^^^^^^^^
+
+
+.. figure:: image/credit_yuu.jpg
+   :scale: 20%
+
+無配偶
+^^^^^^^^^^^^^^^^^^^
+
+
+.. image:: image/credit_mu.jpg
+   :scale: 20%
+
+過去の変数一覧
+^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+   
+   past/card_maisu
+   past/card_gendogaku
+   past/card_zandaka
+   past/card_riyousya

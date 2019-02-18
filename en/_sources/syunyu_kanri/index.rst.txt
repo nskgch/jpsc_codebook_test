@@ -1,0 +1,33 @@
+==================================
+収入管理方法
+==================================
+
+.. note:: 有配偶のみ
+
+.. toctree::
+   :maxdepth: 1
+   
+   Q283
+   /variable/Q284
+   
+   
+収入管理に関する設定金額・こづかい額（有配偶のみ）
+--------------------------------------------------
+
+.. note:: 詳細は工事中
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q271
+   /variable/Q272
+   /variable/Q273
+   /variable/Q274
+   /variable/Q275
+   /variable/Q276
+   /variable/Q277
+   /variable/Q278
+   /variable/Q279
+   /variable/Q280
+   /variable/Q281
+   /variable/Q282

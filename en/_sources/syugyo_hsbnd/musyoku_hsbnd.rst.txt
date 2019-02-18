@@ -1,0 +1,22 @@
+========================================
+調査時に配偶者が無職の人への質問
+========================================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q259
+   /variable/Q1124
+   /variable/Q264
+   /multi_var/Q260
+   /multi_var/Q262
+   /variable/Q263
+   /variable/Q266
+   /variable/Q267
+   /variable/Q268
+   /multi_var/Q269
+   /variable/Q270
+   /variable/Q1125
+   /variable/Q281B
+
+

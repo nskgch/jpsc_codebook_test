@@ -1,0 +1,37 @@
+=========================
+生活意識
+=========================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q558
+   /variable/Q1011
+   /variable/Q1012
+   /variable/Q560
+   /variable/Q1176
+   /variable/Q1177
+   /variable/Q926
+   /variable/Q927
+   /variable/Q928
+   /variable/Q1135
+   /variable/Q1152
+   /variable/Q1153
+   /variable/Q1178
+   /variable/Q663
+   /variable/Q664
+   /variable/Q670
+   /variable/Q508
+   /variable/Q800
+
+
+
+過去の質問
+=========================
+
+.. toctree::
+   :maxdepth: 1
+
+   seikatsu_ryouiki
+   /variable/Q561
+   

@@ -1,0 +1,21 @@
+=========================
+**転職した人への質問**
+=========================
+
+.. note:: 現在の会社が1年前と同じかどうかを問うQ179で「2.同じでない」と答えた人が答える質問です。
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q184
+   /variable/Q1030
+   taisyoku_riyu
+   syunyu_taisyo
+   /variable/Q188
+   kaisya_riyu
+   /variable/Q194
+   /variable/Q195
+   /variable/Q1113
+   /variable/Q186B
+   /variable/Q196
+   /variable/Q193

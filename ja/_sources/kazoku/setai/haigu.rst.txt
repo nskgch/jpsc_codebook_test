@@ -1,0 +1,16 @@
+=================================
+世帯員の配偶関係
+=================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q1014_1
+   /variable/Q1014_2
+   /variable/Q1014_3
+   /variable/Q1014_4
+   /variable/Q1014_5
+   /variable/Q1014_6
+   /variable/Q1014_7
+   /variable/Q1014_8
+

@@ -1,0 +1,93 @@
+==================================
+**病気・精神的な問題による変化**
+==================================
+
+この1年間（平成22年10月～平成23年9月）に手術や長期療養を要するような重い病気や、うつ状態など精神的な問題があった方にお伺いします。
+
+
+質問1 
+------------------------
+
+そのことによって生活に大きな変化がありましたか。（○はいくつでも）
+
+
+
+変数一覧
+^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q132A
+   /variable/Q132B
+   /variable/Q132C
+   /variable/Q132D
+   /variable/Q132E
+   /variable/Q132F
+   /variable/Q132G
+   
+
+質問2 
+------------------------
+
+その時のあなたの生活費や療養費は誰がさせていましたか。（○はいくつでも）
+
+
+
+変数一覧（有配偶）
+^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q133A
+   /variable/Q133B
+   /variable/Q133C
+   /variable/Q133D
+   /variable/Q133E
+   /variable/Q133F
+   /variable/Q133G
+   /variable/Q133H
+   /variable/Q133I
+   /variable/Q133J
+
+
+
+変数一覧（無配偶）
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q134A
+   /variable/Q134B
+   /variable/Q134C
+   /variable/Q134D
+   /variable/Q134E
+   /variable/Q134F
+   /variable/Q134G
+   /variable/Q134H
+   /variable/Q134I
+
+
+質問3
+------------------------
+
+
+療養生活の相談相手は誰でしたか。（○はいくつでも）
+
+
+
+変数一覧
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q135A
+   /variable/Q135B
+   /variable/Q135C
+   /variable/Q135D
+   /variable/Q135E
+   /variable/Q135F
+   /variable/Q135G

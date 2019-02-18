@@ -1,0 +1,15 @@
+=========================
+夫・就業形態の変化
+=========================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q240
+   /variable/Q1121
+   /variable/Q1122
+   /variable/Q1123
+   /variable/Q241
+   /variable/Q242
+   /variable/Q243
+   /variable/Q244

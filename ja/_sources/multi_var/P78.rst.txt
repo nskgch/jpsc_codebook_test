@@ -1,0 +1,72 @@
+
+============================================================
+初職の離職理由
+============================================================
+
+
+質問文（複数回答）
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+どのような理由で、あなたははじめての職業をやめたのですか。
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :widths: 20,5
+
+   人員整理・会社解散・倒産のため,:doc:`P78A </variable/P78A>`
+   一時的・不安定な仕事だったから,:doc:`P78B </variable/P78B>`
+   労働条件（収入、時間）が悪かったから,:doc:`P78V </variable/P78V>`
+   仕事の内容に不満があったため,:doc:`P78W </variable/P78W>`
+   家族の就職・転職・転勤および事業所の移転のため,:doc:`P78F </variable/P78F>`
+   結婚のため,:doc:`P78H </variable/P78H>`
+   妊娠・出産のため,:doc:`P78AA </variable/P78AA>`
+   育児・子育てのため,:doc:`P78AB </variable/P78AB>`
+   自分が病気になったから,:doc:`P78G </variable/P78G>`
+   家族の介護のため,:doc:`P78Q </variable/P78Q>`
+   いい条件の仕事が見つかったから・独立したから,:doc:`P78K </variable/P78K>`
+   人間関係が気まずくなったから,:doc:`P78Y </variable/P78Y>`
+   解雇された,:doc:`P78T </variable/P78T>`
+   大学や専門学校などでの勉強や留学準備のため,:doc:`P78U </variable/P78U>`
+   定年または雇用契約の満了,:doc:`P78Z </variable/P78Z>`
+   その他,:doc:`P78M </variable/P78M>`
+
+
+
+現在の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P78A
+   /variable/P78B
+   /variable/P78V
+   /variable/P78W
+   /variable/P78F
+   /variable/P78H
+   /variable/P78AA
+   /variable/P78AB
+   /variable/P78G
+   /variable/P78Q
+   /variable/P78K
+   /variable/P78Y
+   /variable/P78T
+   /variable/P78U
+   /variable/P78Z
+   /variable/P78M
+
+
+過去の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+
+備考
+------------------------
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

@@ -1,0 +1,13 @@
+=========================
+**出産について**
+=========================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q68
+   syussan_hiyou
+   /variable/Q75
+   syussan_kyuuka
+    
+    

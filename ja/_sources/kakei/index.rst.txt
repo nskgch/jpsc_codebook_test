@@ -1,0 +1,20 @@
+============================================
+家計（収支・貯蓄、社会保障等）
+============================================
+
+.. toctree::
+   :maxdepth: 1
+
+   
+   sisyutsu_yoto
+   sisyutsu_saimoku
+   nensyu
+   /multi_var/Q300
+   zeikin
+   /variable/Q1054
+   hoken
+   /variable/Q307A
+   /variable/Q307B
+   /variable/Q308A
+   /variable/Q308B
+   /variable/Q1171

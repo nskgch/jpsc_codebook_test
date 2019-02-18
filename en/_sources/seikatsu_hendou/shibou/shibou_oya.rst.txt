@@ -1,0 +1,18 @@
+==================================
+**死亡した親の介護・遺産**
+==================================
+
+
+.. toctree::
+   :maxdepth: 1
+   
+   
+   /variable/Q89
+   /variable/Q90
+   /variable/Q100
+   /variable/Q101
+   /variable/Q102
+   /variable/Q103
+   /variable/Q104
+   /variable/Q112
+   shibou/isan_souzoku

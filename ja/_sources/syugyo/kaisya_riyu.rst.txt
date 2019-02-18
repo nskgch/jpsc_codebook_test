@@ -1,0 +1,27 @@
+================================
+**現在の会社を選んだ理由**
+================================
+
+質問文
+-----------------
+
+なぜ、あなたは現在の会社等を選びましたか。（○はいくつでも）
+
+変数一覧
+------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q191A
+   /variable/Q191B
+   /variable/Q191U
+   /variable/Q191E
+   /variable/Q191F
+   /variable/Q191G
+   /variable/Q191H
+   /variable/Q191V
+   /variable/Q191L
+   /variable/Q191M
+   /variable/Q191N
+   /variable/Q191T

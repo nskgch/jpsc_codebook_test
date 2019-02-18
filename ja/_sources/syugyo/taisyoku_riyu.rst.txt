@@ -1,0 +1,32 @@
+================================
+**退職理由（転職）**
+================================
+
+質問文
+-----------------
+
+どのような理由で、あなたは *1年前（昨年9月末）* の会社をやめたのですか。（○はいくつでも）
+
+
+変数一覧
+------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q185A
+   /variable/Q185B
+   /variable/Q185U
+   /variable/Q185V
+   /variable/Q185G
+   /variable/Q185H
+   /variable/Q185W
+   /variable/Q185L
+   /variable/Q185M
+   /variable/Q185O
+   /variable/Q185X
+   /variable/Q185Y
+   /variable/Q185R
+   /variable/Q185S
+   /variable/Q185T
+   

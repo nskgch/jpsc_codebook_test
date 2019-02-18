@@ -1,0 +1,26 @@
+=========================
+**通った学校の種類**
+=========================
+
+質問文
+-----------------------
+
+通ったのはどのような学校ですか。（通信教育を含む）（○はいくつでも）
+
+変数一覧
+-----------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q537A
+   /variable/Q537B
+   /variable/Q537P
+   /variable/Q537C
+   /variable/Q537D
+   /variable/Q537E
+   /variable/Q537F
+   /variable/Q537G
+   /variable/Q537H
+   /variable/Q537I
+   

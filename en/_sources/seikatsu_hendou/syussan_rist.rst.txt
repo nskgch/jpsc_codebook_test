@@ -1,0 +1,15 @@
+==========================================
+この１年間の出産について
+==========================================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q68
+   syussan_hiyou_new
+   /variable/Q75
+   /variable/Q76
+   /variable/Q78
+   sankyuu
+   ikukyuu
+   /variable/Q1027

@@ -1,0 +1,24 @@
+===================================================
+**「学生・専業主婦・その他の無職」への質問**
+===================================================
+
+.. note:: 就業状態Q142で「3.学生」「4.専業主婦」「5.その他の無職」と答えた人が答える質問です。
+
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q197
+   /variable/Q1117
+   /variable/Q202
+   taisyoku_riyu_musyoku
+   syunyu_taisyo_musyoku
+   taisyoku_ishiki
+   /variable/Q204
+   /variable/Q205
+   /variable/Q206
+   kyusyoku_katsudou
+   /variable/Q208
+   /variable/Q1118
+   /variable/Q199B
+

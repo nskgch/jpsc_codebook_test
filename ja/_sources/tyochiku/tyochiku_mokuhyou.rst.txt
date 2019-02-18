@@ -1,0 +1,70 @@
+================
+貯蓄目的・金額
+================
+
+質問文
+---------------------------------------------
+あなた方ご夫婦はどのような目的で貯蓄なさっていますか。下に挙げてある目的のために貯蓄をしている場合は「あり」に○、していない場合は「なし」に○をつけてください。
+
+
+次に、上記の質問で「あり」とお答えいただいた貯蓄のそれぞれについて、どのくらいの貯蓄額を目標にしているかをご記入ください。
+
+
+
+調査票
+---------------------------------------------
+
+有配偶
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: tyochiku_yuu.jpg
+   :scale: 20%
+
+無配偶
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: tyochiku_mu.jpg
+   :scale: 20%
+
+
+変数一覧
+---------------------------------------------
+
+貯蓄目標の有無
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q350C
+   /variable/Q351C
+   /variable/Q352C
+   /variable/Q353C
+   /variable/Q354C
+   /variable/Q355C
+   /variable/Q356C
+   /variable/Q358C
+   /variable/Q359C
+   /variable/Q360C
+   /variable/Q361C
+   /variable/Q362C
+
+
+貯蓄目標額
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q350A
+   /variable/Q351A
+   /variable/Q352A
+   /variable/Q353A
+   /variable/Q354A
+   /variable/Q355A
+   /variable/Q356A
+   /variable/Q358A
+   /variable/Q359A
+   /variable/Q360A
+   /variable/Q361A
+   /variable/Q362A

@@ -1,0 +1,19 @@
+=========================
+ **夫のイメージ**
+=========================
+
+無配偶への質問は `「結婚相手に重視する要素」`_ を参照
+
+.. _「結婚相手に重視する要素」: file:///C:/cygwin/home/tashiro/tyousakoumoku/_build/html/kekkonaite.html
+
+質問文
+------------------
+あなたにとって、今のご主人はどのような存在ですか。
+
+.. toctree::
+   :maxdepth: 1
+
+   seikatu_ishiki/hsbnd_image_p1
+   seikatu_ishiki/hsbnd_image_p19
+   
+.. todo:: /variable/P1と/variable/P19の分け方を考える／リンクはダミーなので修正する

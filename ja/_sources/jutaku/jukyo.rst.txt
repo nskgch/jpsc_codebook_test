@@ -1,0 +1,22 @@
+========================
+現在お住まいの住居
+========================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q371
+   /variable/Q373
+   /variable/Q375G
+   /variable/Q376G
+   /variable/Q374
+   /variable/Q375B
+   /variable/Q375C
+   /variable/Q375E
+   /variable/Q375F
+   /variable/Q802
+   /variable/Q1037
+   /variable/Q376B
+   /variable/Q376D
+   /variable/Q376E
+   /variable/Q376F

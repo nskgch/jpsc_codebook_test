@@ -1,0 +1,15 @@
+===================
+保険
+===================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q363A
+   /variable/Q363B
+   /variable/Q363C
+   /variable/Q365
+   /variable/Q367A
+   /variable/Q367B
+   /variable/Q367C
+   /variable/Q369

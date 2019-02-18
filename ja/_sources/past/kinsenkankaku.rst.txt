@@ -1,0 +1,15 @@
+==============================================
+金銭感覚
+==============================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q924
+   /variable/Q925
+   /variable/Q926
+   /variable/Q927
+   /variable/Q928
+   /variable/Q929
+   /variable/Q930
+   /variable/Q931

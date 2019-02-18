@@ -1,0 +1,85 @@
+==================================
+**災害・事故による変化**
+==================================
+
+この1年間（平成22年10月～平成23年9月）にあなた自身が事故や災害、消費者トラブルにあわれた方にうかがいます。
+
+
+質問1 
+------------------------
+
+その事故や災害、消費者トラブルは何でしたか。（○はいくつでも）
+
+
+
+変数一覧
+------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q136H
+   /variable/Q136A
+   /variable/Q136B
+   /variable/Q136C
+   /variable/Q136D
+   /variable/Q136E
+   /variable/Q136F
+   /variable/Q136G
+   
+
+質問2 
+------------------------
+
+そのことによって生活に大きな変化がありましたか。（○はいくつでも）
+
+
+
+変数一覧
+------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q137A
+   /variable/Q137B
+   /variable/Q137C
+   /variable/Q137D
+   /variable/Q137E
+   /variable/Q137F
+   /variable/Q137G
+   /variable/Q137H
+   /variable/Q137I
+   
+
+質問3
+------------------------
+
+
+そのためにどのような対処をしましたか。（○はいくつでも）
+
+
+
+変数一覧
+------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q135A
+   /variable/Q135B
+   /variable/Q135C
+   /variable/Q135D
+   /variable/Q135E
+   /variable/Q135F
+   /variable/Q135G
+   /variable/Q135H
+   /variable/Q135I
+   /variable/Q135J
+   /variable/Q135K
+   /variable/Q135L
+   /variable/Q135M
+   /variable/Q135N
+   /variable/Q135O
+   /variable/Q135P
+

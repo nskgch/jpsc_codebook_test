@@ -1,0 +1,114 @@
+========================
+現在の借り入れの状況
+========================
+
+質問文
+----------------------------------
+
+現在の借り入れについて、以下の項目にご記入ください。「①借りた目的」「②借入先」は、次ページのコード表からあてはまる「コード番号」をご記入ください。
+
+
+
+調査票
+----------------------------------
+
+.. figure:: jutakuloan.jpg
+   :scale: 60%
+
+
+
+変数の一覧（借入れ目的別）
+----------------------------------------
+
+01 借り替え
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q807A
+   /variable/Q807B
+   /variable/Q807C
+   /variable/Q807D
+   /variable/Q807E
+   /variable/Q807F
+   /variable/Q807G
+
+
+02 土地の購入
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q413A
+   /variable/Q413B
+   /variable/Q413C
+   /variable/Q413D
+   /variable/Q413E
+   /variable/Q413F
+   /variable/Q413G
+
+
+03　住宅（土地も含む）の購入
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q414A
+   /variable/Q414B
+   /variable/Q414C
+   /variable/Q414D
+   /variable/Q414E
+   /variable/Q414F
+   /variable/Q414G
+
+
+04 建物の建築
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q415A
+   /variable/Q415B
+   /variable/Q415C
+   /variable/Q415D
+   /variable/Q415E
+   /variable/Q415F
+   /variable/Q415G
+
+
+05 増改築
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q416A
+   /variable/Q416B
+   /variable/Q416C
+   /variable/Q416D
+   /variable/Q416E
+   /variable/Q416F
+   /variable/Q416G
+
+
+
+
+06 別荘の購入
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q417A
+   /variable/Q417B
+   /variable/Q417C
+   /variable/Q417D
+   /variable/Q417E
+   /variable/Q417F
+   /variable/Q417G
+
+

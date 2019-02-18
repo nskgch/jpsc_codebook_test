@@ -1,0 +1,31 @@
+=========================
+**費用負担者**
+=========================
+
+有配偶
+----------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q543G
+   /variable/Q543H
+   /variable/Q543I
+   /variable/Q543J
+   /variable/Q543M
+   /variable/Q543K
+   /variable/Q543L
+
+
+無配偶
+----------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q544F
+   /variable/Q544G
+   /variable/Q544H
+   /variable/Q544K
+   /variable/Q544I
+   /variable/Q544J

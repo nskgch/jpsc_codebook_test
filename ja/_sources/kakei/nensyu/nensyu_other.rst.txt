@@ -1,0 +1,14 @@
+=================================
+夫婦（あなた）以外の世帯員の年収
+=================================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q299A
+   /variable/Q299B
+   /variable/Q299C
+   /variable/Q299D
+   /variable/Q299E
+   /variable/Q299F
+

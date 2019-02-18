@@ -1,0 +1,22 @@
+==============================================
+価格破壊
+==============================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q900
+   /multi_var/Q901
+   /variable/Q902
+   /multi_var/Q903
+   /multi_var/Q904
+   /variable/Q905
+   /multi_var/Q906  
+   Q907
+   /variable/Q908
+   /variable/Q909
+   /variable/Q910
+   /variable/Q911
+   /variable/Q912
+   /variable/Q913
+   /variable/Q914

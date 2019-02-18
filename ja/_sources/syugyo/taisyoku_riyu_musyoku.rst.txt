@@ -1,0 +1,32 @@
+==============================================
+**退職理由（学生・専業主婦・その他無職）**
+==============================================
+
+質問文
+-----------------
+
+どのような理由で、あなたは *1年前（昨年9月末）* の会社をやめたのですか。（○はいくつでも）
+
+
+変数一覧
+------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q198A
+   /variable/Q198B
+   /variable/Q198U
+   /variable/Q198V
+   /variable/Q198G
+   /variable/Q198H
+   /variable/Q198W
+   /variable/Q198L
+   /variable/Q198M
+   /variable/Q198O
+   /variable/Q198X
+   /variable/Q198R
+   /variable/Q198S
+   /variable/Q198Y
+   /variable/Q198T
+   

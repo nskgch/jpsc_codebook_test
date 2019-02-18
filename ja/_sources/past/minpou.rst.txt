@@ -1,0 +1,19 @@
+==============================================
+民法の改正について
+==============================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q932
+   /variable/Q933
+   /multi_var/Q934
+   /variable/Q935
+   /variable/Q936
+   /variable/Q937
+   /multi_var/Q938
+   /multi_var/Q939
+   /variable/Q940
+   /variable/Q941
+   /multi_var/Q942
+   /multi_var/Q943

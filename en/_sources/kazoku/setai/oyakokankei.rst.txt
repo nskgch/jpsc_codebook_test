@@ -1,0 +1,18 @@
+===============================
+**本人と世帯員の続き柄**
+===============================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q6
+   /variable/Q11
+   /variable/Q16
+   /variable/Q21
+   /variable/Q26
+   /variable/Q31
+   /variable/Q36
+   /variable/Q41
+   /variable/Q46
+   /variable/Q51
+   

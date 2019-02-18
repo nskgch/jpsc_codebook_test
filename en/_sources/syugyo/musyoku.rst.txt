@@ -1,0 +1,35 @@
+================================
+調査時に無職の人への質問
+================================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q197
+   /variable/Q1117
+   /variable/Q202
+   /multi_var/Q198
+   /multi_var/Q200
+   /variable/Q201
+   /variable/Q204
+   /variable/Q205
+   /variable/Q206
+   /multi_var/Q207
+   /variable/Q208
+   /variable/Q1118
+   /variable/Q199B
+
+
+初回調査のみの質問項目
+--------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P41A
+   /variable/P41B
+   /variable/P44A
+   /variable/P44B
+   /variable/P45
+   /variable/P46A
+   /variable/P46B

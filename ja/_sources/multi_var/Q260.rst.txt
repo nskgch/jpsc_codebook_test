@@ -1,0 +1,72 @@
+
+============================================================
+夫・1年前の勤務先を辞めた理由
+============================================================
+
+
+質問文（複数回答）
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :widths: 20,5
+
+   人員整理・会社解散・倒産のため,:doc:`Q260A </variable/Q260A>`
+   一時的・不安定な仕事だったから,:doc:`Q260B </variable/Q260B>`
+   労働条件（収入・時間）が悪かったため,:doc:`Q260U </variable/Q260U>`
+   仕事の内容に不満があったため,:doc:`Q260V </variable/Q260V>`
+   家族の就職・転職・転勤及び事業所の移転のため,:doc:`Q260G </variable/Q260G>`
+   結婚のため,:doc:`Q260H </variable/Q260H>`
+   妻の妊娠・出産のため,:doc:`Q260Z </variable/Q260Z>`
+   育児・子育てのため,:doc:`Q260AA </variable/Q260AA>`
+   自分が病気になったから,:doc:`Q260L </variable/Q260L>`
+   家族の介護のため,:doc:`Q260M </variable/Q260M>`
+   良い条件の仕事が見つかったら・独立したから,:doc:`Q260O </variable/Q260O>`
+   人間関係が気まずくなったから,:doc:`Q260X </variable/Q260X>`
+   解雇された,:doc:`Q260Y </variable/Q260Y>`
+   大学や専門学校などでの勉強や留学準備のため,:doc:`Q260R </variable/Q260R>`
+   定年又は雇用契約の満了,:doc:`Q260S </variable/Q260S>`
+   その他,:doc:`Q260T </variable/Q260T>`
+
+
+
+現在の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q260A
+   /variable/Q260B
+   /variable/Q260U
+   /variable/Q260V
+   /variable/Q260G
+   /variable/Q260H
+   /variable/Q260Z
+   /variable/Q260AA
+   /variable/Q260L
+   /variable/Q260M
+   /variable/Q260O
+   /variable/Q260X
+   /variable/Q260Y
+   /variable/Q260R
+   /variable/Q260S
+   /variable/Q260T
+
+
+過去の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+
+備考
+------------------------
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

@@ -1,0 +1,61 @@
+========================================
+調査時に有職の人への質問
+========================================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q1045
+   /variable/Q143
+   /variable/Q859
+   kaisya_zokusei
+   syokumu
+   kyuyo
+   roudoujikan_kyuka
+   /variable/Q1028
+   /multi_var/Q170
+   /variable/P58
+   syugyo_keitai
+
+
+うち、前回調査時から勤務先等に変更があった人への質問項目
+------------------------------------------------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q184
+   /variable/Q1030
+   /multi_var/Q185
+   /multi_var/Q187
+   /variable/Q188
+   /multi_var/Q191
+   /variable/Q194
+   /variable/Q195
+   /variable/Q1113
+   /variable/Q186B
+   /variable/Q196
+   /variable/Q193
+
+.. todo:: Q152がない
+
+.. note:: 調査前年に無職でこの1年間に新たに就職した人は、 :doc:`/variable/Q194` 、 :doc:`/variable/Q195` 、 :doc:`/variable/Q1113` 、 :doc:`/variable/Q186B` 、 :doc:`/variable/Q196` 、 :doc:`/variable/Q193` に回答しています。
+
+
+初回調査のみ質問項目
+---------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P40A
+   /variable/P40B
+   /variable/P53A
+   /variable/P53B
+   /variable/P55A
+   /variable/P55B
+   /multi_var/P57
+   /variable/P60
+
+
+.. note:: 初回調査のみに尋ねている現在の職業に関する質問

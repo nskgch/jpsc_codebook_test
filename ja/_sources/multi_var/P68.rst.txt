@@ -1,0 +1,72 @@
+
+============================================================
+前職の離職理由
+============================================================
+
+
+質問文（複数回答）
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+どのような理由で、あなたはその前職をやめたのですか。(○はいくつでも)
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :widths: 2,20,5
+
+   1,人員整理・会社解散・倒産のため,:doc:`P68A </variable/P68A>`
+   2,一時的・不安定な仕事だったから,:doc:`P68B </variable/P68B>`
+   3,労働条件（収入、時間）が悪かったから,:doc:`P68D </variable/P68D>`
+   4,仕事の内容に不満があったため,:doc:`P68W </variable/P68W>`
+   5,家族の就職・転職・転勤および事業所の移転のため,:doc:`P68F </variable/P68F>`
+   6,結婚のため,:doc:`P68H </variable/P68H>`
+   7,妊娠・出産のため,:doc:`P68AA </variable/P68AA>`
+   8,育児・子育てのため,:doc:`P68AB </variable/P68AB>`
+   9,自分が病気になったから,:doc:`P68G </variable/P68G>`
+   10,家族の介護のため,:doc:`P68Q </variable/P68Q>`
+   11,いい条件の仕事が見つかったから・独立したから,:doc:`P68K </variable/P68K>`
+   12,人間関係が気まずくなったから,:doc:`P68L </variable/P68L>`
+   13,解雇された,:doc:`P68T </variable/P68T>`
+   14,大学や専門学校などでの勉強や留学準備のため,:doc:`P68U </variable/P68U>`
+   15,定年または雇用契約の満了,:doc:`P68Z </variable/P68Z>`
+   16,その他（具体的に　　　　　　　　　　　　　　）,:doc:`P68M </variable/P68M>`
+
+
+
+現在の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P68A
+   /variable/P68B
+   /variable/P68D
+   /variable/P68W
+   /variable/P68F
+   /variable/P68H
+   /variable/P68AA
+   /variable/P68AB
+   /variable/P68G
+   /variable/P68Q
+   /variable/P68K
+   /variable/P68L
+   /variable/P68T
+   /variable/P68U
+   /variable/P68Z
+   /variable/P68M
+
+
+過去の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+
+備考
+------------------------
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

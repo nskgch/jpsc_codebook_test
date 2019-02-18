@@ -1,0 +1,15 @@
+===============================
+死亡した親について
+===============================
+
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q89
+   /variable/Q100
+   /variable/Q101
+   /variable/Q102
+   /variable/Q104
+   /variable/Q112
+   /multi_var/Q1043

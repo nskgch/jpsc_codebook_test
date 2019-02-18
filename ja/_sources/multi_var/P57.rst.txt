@@ -1,0 +1,66 @@
+
+============================================================
+現在の仕事に関する知識や技能をどこで身につけたか
+============================================================
+
+
+質問文（複数回答）
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+あなたは、今の仕事に必要な知識や技能をどこで身につけましたか。（○はいくつでも）
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :widths: 2,20,5
+
+   1,社内の研修で,:doc:`P57A </variable/P57A>`
+   2,社内の同僚から,:doc:`P57B </variable/P57B>`
+   3,会社から学校に派遣されて,:doc:`P57C </variable/P57C>`
+   4,会社から他社に派遣されて,:doc:`P57D </variable/P57D>`
+   5,就職する前に公共の職業訓練校で,:doc:`P57E </variable/P57E>`
+   6,就職する前に専門学校などで,:doc:`P57F </variable/P57F>`
+   7,高校で,:doc:`P57G </variable/P57G>`
+   8,高専・短大・大学で,:doc:`P57H </variable/P57H>`
+   9,大学院で,:doc:`P57I </variable/P57I>`
+   10,前職の勤務により,:doc:`P57J </variable/P57J>`
+   11,独学で,:doc:`P57K </variable/P57K>`
+   12,その他（具体的に）,:doc:`P57L </variable/P57L>`
+   13,特に身につけたことはない,:doc:`P57M </variable/P57M>`
+
+
+
+現在の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P57A
+   /variable/P57B
+   /variable/P57C
+   /variable/P57D
+   /variable/P57E
+   /variable/P57F
+   /variable/P57G
+   /variable/P57H
+   /variable/P57I
+   /variable/P57J
+   /variable/P57K
+   /variable/P57L
+   /variable/P57M
+
+
+過去の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+
+備考
+------------------------
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

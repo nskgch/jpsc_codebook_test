@@ -1,0 +1,39 @@
+========================================
+調査時に配偶者が有職の人への質問
+========================================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q1047
+   /variable/Q214
+   /variable/Q860
+   kaisya_zokusei_hsband
+   /variable/Q1119
+   kyuyo_hsbnd
+   roudoujikan_kyuka_hsbnd
+   /variable/Q1031
+   /variable/Q1049
+   syugyo_keitai_hasbnd
+   
+
+転職者への質問
+---------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q246
+   /variable/Q1033
+   /multi_var/Q247
+   /multi_var/Q249
+   /variable/Q250
+   /multi_var/Q253
+   /variable/Q256
+   /variable/Q257
+   /variable/Q1120
+   /variable/Q248B
+   /variable/Q258
+   /variable/Q255
+   
+

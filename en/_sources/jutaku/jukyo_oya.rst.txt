@@ -1,0 +1,15 @@
+============
+親の居住状況
+============
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q377
+   /variable/Q378
+   /variable/Q1060
+   /variable/Q1061
+   /variable/Q1068
+   /variable/Q1057
+   /variable/Q1058
+   /variable/Q1067

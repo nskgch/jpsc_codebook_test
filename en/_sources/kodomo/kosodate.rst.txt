@@ -1,0 +1,13 @@
+==========================
+出産に対する考え方
+==========================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q511
+   /multi_var/Q512
+   /multi_var/Q513
+   /variable/Q515
+   /variable/Q516
+   

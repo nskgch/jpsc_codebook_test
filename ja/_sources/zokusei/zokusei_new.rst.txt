@@ -1,0 +1,60 @@
+=================================================
+回答者の経歴について【初回調査のみの質問項目】
+=================================================
+
+
+家族構成
+----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P1A
+   /variable/P1B
+   /variable/P2
+
+結婚
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P140A
+   /variable/P140B
+   /variable/P3
+   /variable/P4_2
+   /variable/Q1044A
+   /variable/Q1044B
+   /variable/Q1044C
+
+学歴・資格
+----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/P5
+   /variable/P6
+   /variable/P7
+   /variable/P8
+   /variable/P9
+   /variable/P10
+   /variable/P11
+   /variable/P12
+   /variable/P13
+   /variable/P14
+   /variable/P15
+   /variable/P16
+   /variable/P17
+   /variable/P18
+   /variable/P19
+   /variable/P20
+   /variable/P21
+   /variable/P22
+   /variable/P23
+   /variable/P24
+   /variable/Q1022
+   /variable/P26
+   /variable/P27
+   /multi_var/P28
+   /variable/P29

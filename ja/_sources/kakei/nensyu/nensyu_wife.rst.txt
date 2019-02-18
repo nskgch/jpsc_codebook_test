@@ -1,0 +1,12 @@
+=================
+本人(妻）の年収
+=================
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q297A
+   /variable/Q297B
+   /variable/Q297C
+   /variable/Q297D
+   /variable/Q297E
+   /variable/Q297F

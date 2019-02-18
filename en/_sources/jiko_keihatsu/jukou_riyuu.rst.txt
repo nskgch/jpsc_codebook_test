@@ -1,0 +1,28 @@
+=========================
+**受講した理由**
+=========================
+
+質問文
+-----------------------
+
+受講した理由をお聞かせください。（○は2つまで）
+
+変数一覧
+-----------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q541A
+   /variable/Q541B
+   /variable/Q541C
+   /variable/Q541D
+   /variable/Q541E
+   /variable/Q541F
+   /variable/Q541G
+   /variable/Q541H
+   /variable/Q541I
+   /variable/Q541J
+   /variable/Q541K
+   /variable/Q541L
+   /variable/Q541M

@@ -1,0 +1,15 @@
+.. _otto-image:
+
+=========================
+配偶者のイメージ
+=========================
+
+無配偶への質問は :ref:`結婚相手に重視する要素<kekkonaite-jyuushi-youso>` を参照
+
+.. _「結婚相手に重視する要素」: file:///C:/cygwin/home/tashiro/tyousakoumoku/_build/html/kekkonaite.html
+
+.. toctree::
+   :maxdepth: 1
+
+   otto_image1
+   otto_image19

@@ -1,0 +1,72 @@
+
+============================================================
+夫・1年前の勤務先を辞めた理由
+============================================================
+
+
+質問文（複数回答）
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+どのような理由で、ご主人は１年前（昨年9月末）の会社等をやめたのですか。
+
+
+選択肢
+-----------------------
+
+.. csv-table::
+   :widths: 20,5
+
+   人員整理・会社解散・倒産のため,:doc:`Q247A </variable/Q247A>`
+   一時的・不安定な仕事だったから,:doc:`Q247B </variable/Q247B>`
+   労働条件（収入・時間）が悪かったため,:doc:`Q247U </variable/Q247U>`
+   仕事の内容に不満があったため,:doc:`Q247V </variable/Q247V>`
+   家族の就職・転職・転勤及び事業所の移転のため,:doc:`Q247G </variable/Q247G>`
+   結婚のため,:doc:`Q247H </variable/Q247H>`
+   妻の妊娠・出産のため,:doc:`Q247Z </variable/Q247Z>`
+   育児・子育てのため,:doc:`Q247AA </variable/Q247AA>`
+   自分が病気になったから,:doc:`Q247L </variable/Q247L>`
+   家族の介護のため,:doc:`Q247M </variable/Q247M>`
+   良い条件の仕事が見つかったら・独立したから,:doc:`Q247O </variable/Q247O>`
+   人間関係が気まずくなったから,:doc:`Q247X </variable/Q247X>`
+   解雇された,:doc:`Q247Y </variable/Q247Y>`
+   大学や専門学校などでの勉強や留学準備のため,:doc:`Q247R </variable/Q247R>`
+   定年又は雇用契約の満了,:doc:`Q247S </variable/Q247S>`
+   その他,:doc:`Q247T </variable/Q247T>`
+
+
+
+現在の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q247A
+   /variable/Q247B
+   /variable/Q247U
+   /variable/Q247V
+   /variable/Q247G
+   /variable/Q247H
+   /variable/Q247Z
+   /variable/Q247AA
+   /variable/Q247L
+   /variable/Q247M
+   /variable/Q247O
+   /variable/Q247X
+   /variable/Q247Y
+   /variable/Q247R
+   /variable/Q247S
+   /variable/Q247T
+
+
+過去の変数へのリンク
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+
+備考
+------------------------
+
+
+.. accessで作った備考欄のセミコロンは改行を表す

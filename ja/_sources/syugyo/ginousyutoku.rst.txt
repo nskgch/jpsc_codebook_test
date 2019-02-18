@@ -1,0 +1,28 @@
+================================
+**仕事の知識・技能習得の機会**
+================================
+
+質問文
+-----------------
+
+あなたは、今の仕事に必要な知識や技能をどこで身につけましたか。（○はいくつでも）
+
+変数一覧
+------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q57A
+   /variable/Q57B
+   /variable/Q57C
+   /variable/Q57D
+   /variable/Q57E
+   /variable/Q57F
+   /variable/Q57G
+   /variable/Q57H
+   /variable/Q57I
+   /variable/Q57J
+   /variable/Q57K
+   /variable/Q57L
+   /variable/Q57M

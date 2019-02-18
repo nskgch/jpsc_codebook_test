@@ -1,0 +1,31 @@
+===============================
+親からの生前贈与・遺産
+===============================
+
+回答者の親
+----------
+
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q327A
+   /variable/Q327B
+   /variable/Q327C
+   /variable/Q327D
+   /variable/Q1034
+
+
+配偶者の親
+----------
+
+.. toctree::
+   :maxdepth: 1
+
+   
+   /variable/Q329A
+   /variable/Q329B
+   /variable/Q329C
+   /variable/Q329D
+   /variable/Q1035
+

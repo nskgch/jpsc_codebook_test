@@ -1,0 +1,16 @@
+====================
+政策に対する考え
+====================
+
+.. toctree::
+   :maxdepth: 1
+
+   /variable/Q1179
+   /variable/Q1180
+   zouzei_taiou
+   zouzei_taiou_8
+   /variable/Q1192
+   /variable/Q1193
+   zouzei_taiou_pre10
+   /variable/Q1160
+   /variable/Q1090

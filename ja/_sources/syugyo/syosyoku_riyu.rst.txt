@@ -1,0 +1,27 @@
+=====================================
+**初職を選んだ理由**
+=====================================
+
+質問文
+---------------------------
+どのような理由で、あなたは初めての職業を選びましたか。（○はいくつでも）
+
+
+変数の詳細
+---------------------------
+
+.. toctree:
+   :maxdepth: 1
+   
+   /variable/P77A
+   /variable/P77B
+   /variable/P77X
+   /variable/P77E
+   /variable/P77F
+   /variable/P77G
+   /variable/P77H
+   /variable/P77Y
+   /variable/P77M
+   /variable/P77N
+   /variable/P77O
+   /variable/P77W

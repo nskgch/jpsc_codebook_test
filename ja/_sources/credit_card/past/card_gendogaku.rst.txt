@@ -1,0 +1,57 @@
+==========================================
+クレジットカード利用の制約（限度額）
+==========================================
+
+質問文
+-------------------------
+
+クレジットカードを利用するにあたって、何か制約条件を付けていますか。該当するものに○をつけてください。 **（○は2つまで）**
+
+.. note:: 無配偶の調査票では「あなたの名義」「あなたの親の名義」について聞いており、変数は共通です。詳しくは調査票をご覧下さい。
+
+.. csv-table:: 
+   :header: "", "あなたの名義", "ご主人の名義", "実親の名義", "義親の名義"
+   :widths: 40, 15, 15, 15, 15
+   
+   
+   "（1）利用金額の限度を月に2万円位までと決めている",":doc:`1 </variable/Q440B>`",":doc:`1 </variable/Q441B>`",":doc:`1 </variable/Q442B>`",":doc:`1 </variable/Q443B>`"
+   "（2）利用金額の限度を月に5万円位までと決めている",":doc:`2 </variable/Q440C>`",":doc:`2 </variable/Q441C>`",":doc:`2 </variable/Q442C>`",":doc:`2 </variable/Q443C>`"
+   "（3）利用金額の限度を月に10万円位までと決めている",":doc:`3 </variable/Q440D>`",":doc:`3 </variable/Q441D>`",":doc:`3 </variable/Q442D>`",":doc:`3 </variable/Q443D>`"
+   "（4）月々の返済金額の限度を決めている",":doc:`4 </variable/Q440E>`",":doc:`4 </variable/Q441E>`",":doc:`4 </variable/Q442E>`",":doc:`4 </variable/Q443E>`"
+   "（5）利用する店や、利用する物・サービスを決めている",":doc:`5 </variable/Q440F>`",":doc:`5 </variable/Q441F>`",":doc:`5 </variable/Q442F>`",":doc:`5 </variable/Q443F>`"
+   "（6）その他（具体的に____________________________）",":doc:`6 </variable/Q440G>`",":doc:`6 </variable/Q441G>`",":doc:`6 </variable/Q442G>`",":doc:`6 </variable/Q443G>`"
+   "（7）特に制約を設けていない","7","7","7","7"
+
+
+変数一覧
+------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   
+   /variable/Q440B
+   /variable/Q440C
+   /variable/Q440D
+   /variable/Q440E
+   /variable/Q440F
+   /variable/Q440G
+   /variable/Q441B
+   /variable/Q441C
+   /variable/Q441D
+   /variable/Q441E
+   /variable/Q441F
+   /variable/Q441G
+   /variable/Q442B
+   /variable/Q442C
+   /variable/Q442D
+   /variable/Q442E
+   /variable/Q442F
+   /variable/Q442G
+   /variable/Q443A
+   /variable/Q443B
+   /variable/Q443C
+   /variable/Q443D
+   /variable/Q443E
+   /variable/Q443F
+   /variable/Q443G

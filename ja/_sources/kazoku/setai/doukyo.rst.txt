@@ -1,0 +1,18 @@
+=================================
+世帯員の同居・別居について
+=================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q10
+   /variable/Q15
+   /variable/Q20
+   /variable/Q25
+   /variable/Q30
+   /variable/Q35
+   /variable/Q40
+   /variable/Q45
+   /variable/Q50
+   /variable/Q55
+   

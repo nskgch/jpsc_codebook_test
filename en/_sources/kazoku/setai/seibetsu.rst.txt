@@ -1,0 +1,17 @@
+===============================
+世帯員の性別
+===============================
+
+.. toctree::
+   :maxdepth: 1
+   
+   /zokusei/Q7
+   /variable/Q12
+   /variable/Q17
+   /variable/Q22
+   /variable/Q27
+   /variable/Q32
+   /variable/Q37
+   /variable/Q42
+   /variable/Q47
+   /variable/Q52

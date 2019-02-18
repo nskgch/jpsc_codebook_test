@@ -1,0 +1,46 @@
+==========================================
+家庭電気製品の所有数と購入数
+==========================================
+
+質問文
+----------------------
+
+現在、あなた方ご夫婦は次のものをいくつ保有していますか。その台数を記入してください。持っていない場合は、 *0を* ご記入ください。
+
+また、この1年間に購入した方は、その購入台数と購入金額を記入してください。（2台以上購入した場合は、合計金額を記入してください）
+
+
+調査票
+----------------------
+
+.. figure:: image/kaden.jpg
+   :scale: 20%
+   
+   クリックして拡大
+   
+
+変数一覧
+----------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   /variable/Q444F
+   /variable/Q450A
+   /variable/Q450B
+   /variable/Q444AF
+   /variable/Q1146A
+   /variable/Q1146B
+   /variable/Q444M
+   /variable/Q457A
+   /variable/Q457B
+   /variable/Q444Q
+   /variable/Q461A
+   /variable/Q461B
+   /variable/Q444AB
+   /variable/Q813A
+   /variable/Q813B
+   /variable/Q444X
+   /variable/Q468A
+   /variable/Q468B
+   /variable/Q444AG
